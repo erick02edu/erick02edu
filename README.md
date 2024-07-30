@@ -1,4 +1,9 @@
-### Apasionado de la tecnologia, especificamente en el desarrollo web buscando cadia dia ser un mejor programador🧠🦾 
+# Hola mi nombre es Erick Eduardo! 👋💻
+
+**Desarrollador web fullstrack** 
+Hola soy un apasionado de la programación que busca cada día ser mejor en lo que hace 💪.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-eduardo-roman-barrera-93a85331a/)
 
 <!--
 **erick02edu/erick02edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

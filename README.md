@@ -1,4 +1,4 @@
-### Hi there 👋
+### Apasionado de la tecnologia, especificamente en el desarrollo web buscando cadia dia ser un mejor programador🧠🦾 
 
 <!--
 **erick02edu/erick02edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
